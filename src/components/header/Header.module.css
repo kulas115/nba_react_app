@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  height: 8rem;
+  justify-content: center;
+  align-items: center;
+ background-color:  #24305e;
+}
+
+.text {
+  font-size: 3rem;
+  color: white;
+}

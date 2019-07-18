@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "NBA Games",
+  "name": "Simple app listing all NBA games per season",
   "icons": [
     {
       "src": "favicon.ico",
